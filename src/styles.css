@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 75vw;
+  margin: auto;
+}
+
+input {
+  padding: 1rem;
+  width: 50vw;
+  max-width: 200px;
+}
+
+.emoji-list {
+  font-size: 150%;
+  cursor: pointer;
+}
